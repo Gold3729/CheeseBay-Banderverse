@@ -13,7 +13,7 @@
 	allowed_branches = list(/datum/mil_branch/employee)
 	allowed_ranks = list(/datum/mil_rank/civ/nt)
 	min_skill = list(
-		SKILL_BUREAUCRACY = SKILL_TRAINED,
+		SKILL_BUREAUCRACY = SKILL_ADEPT,
 		SKILL_FINANCE     = SKILL_BASIC,
 		SKILL_HAULING     = SKILL_BASIC,
 		SKILL_EVA         = SKILL_BASIC
